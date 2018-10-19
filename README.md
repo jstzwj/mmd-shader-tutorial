@@ -1,4 +1,4 @@
-# 《MMD着色器开发技术》
+# 《实时渲染：MMD着色器开发》
 ![](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87--green.svg)
 [![](https://img.shields.io/badge/%E8%B5%9E%E5%8A%A9--orange.svg)](./assets/donate.md)
 [![](https://img.shields.io/badge/%E4%BA%A4%E6%B5%81--yellow.svg)](./assets/chat.md)
