@@ -8,7 +8,7 @@
 
  同时，本书在介绍这些特性的过程中，尽可能简单的介绍这些特性产生的历史和技术需求，这为理解这些特性，合理的运用渲染提供很大的帮助
 
- 本书面向所有需要了解计算机图形学中实时渲染相关的职位，特效制作，独立游戏开发，通过本书可以达到编写Unity，Unreal Engine，Minecraft 等游戏的Shader特效开发
+ 本书面向所有需要了解计算机图形学中实时渲染相关的职位，包括特效制作，独立游戏开发，通过本书可以达到编写Unity，Unreal Engine，Minecraft 等游戏的Shader特效开发
 
 ## 目标群体
   1. 本书假定用户已经熟练运用了[MikuMikuDance](http://www.geocities.jp/higuchuu4/index_e.htm)，以及[MikuMikuEffect](https://bowlroll.net/file/35012)
