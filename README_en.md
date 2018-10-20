@@ -13,7 +13,7 @@
  本书面向所有需要了解计算机图形学中实时渲染相关的职位，包括特效制作，独立游戏开发，通过本书可以达到编写Unity，Unreal Engine，Minecraft 等游戏的Shader特效开发
 
 ## About readers
-  1. This book assumes that the user has experience of using [MikuMikuDance](http://www.geocities.jp/higuchuu4/index_e.htm) and [MikuMikuEffect](https://bowlroll.net/file/35012)
+  1. We assume that readers of the book have experience of using [MikuMikuDance](http://www.geocities.jp/higuchuu4/index_e.htm) and [MikuMikuEffect](https://bowlroll.net/file/35012)
   2. 具备基本的数学基础，如几何，线代，但是不必担心，该书会帮助你复习这些知识，所以你只需要明白它的意思，理解背后的理论和空间想象力更重要
   3. 本书假定用户具有一定的编程开发基础，有一定的图形图像经验更优，渴望在短时间内了解实时渲染原理的人非常适合阅读本书
 
