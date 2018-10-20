@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/%E4%BA%A4%E6%B5%81--yellow.svg)](./assets/chat.md)
 
 ## Motivation
- This book that presents real-time rendering knowledge by a thorough and systematic method. It is not only a guide book for shader development but a useful reference book for practitioners in graphic related field. As a reader of the book, you can read chapters which you are interested in.
+ This book presents real-time rendering knowledge by a thorough and systematic method. It is not only a guide book for shader development but a useful reference book for practitioners in graphic related field. As a reader of the book, you can read chapters which you are interested in.
 
  本书借助使用MME进行着色器开发，抛弃DX和OpenGL等api作为底层，全书以MME作为开发框架，穿插3D图形学的相关原理，以一种全新的方式引导读者快速掌握shader开发所必须掌握的理论，最实用的技巧
 
@@ -13,7 +13,7 @@
  本书面向所有需要了解计算机图形学中实时渲染相关的职位，包括特效制作，独立游戏开发，通过本书可以达到编写Unity，Unreal Engine，Minecraft 等游戏的Shader特效开发
 
 ## About readers
-  1. 本书假定用户已经熟练运用了[MikuMikuDance](http://www.geocities.jp/higuchuu4/index_e.htm)，以及[MikuMikuEffect](https://bowlroll.net/file/35012)
+  1. This book assumes that the user has experience of using [MikuMikuDance](http://www.geocities.jp/higuchuu4/index_e.htm) and [MikuMikuEffect](https://bowlroll.net/file/35012)
   2. 具备基本的数学基础，如几何，线代，但是不必担心，该书会帮助你复习这些知识，所以你只需要明白它的意思，理解背后的理论和空间想象力更重要
   3. 本书假定用户具有一定的编程开发基础，有一定的图形图像经验更优，渴望在短时间内了解实时渲染原理的人非常适合阅读本书
 
