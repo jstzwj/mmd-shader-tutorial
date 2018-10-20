@@ -14,7 +14,7 @@
 
 ## About readers
   1. We assume that readers of the book have experience of using [MikuMikuDance](http://www.geocities.jp/higuchuu4/index_e.htm) and [MikuMikuEffect](https://bowlroll.net/file/35012)
-  2. 具备基本的数学基础，如几何，线代，但是不必担心，该书会帮助你复习这些知识，所以你只需要明白它的意思，理解背后的理论和空间想象力更重要
+  2. Math knowledge, such as geometry and linear algebra, is required, but do not worry too much. I will help you review related knowledge before I use, because the thoughts of these technologies and spatial imagination are more important.
   3. 本书假定用户具有一定的编程开发基础，有一定的图形图像经验更优，渴望在短时间内了解实时渲染原理的人非常适合阅读本书
 
 ## Reading
