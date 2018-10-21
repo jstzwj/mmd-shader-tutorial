@@ -6,6 +6,7 @@
 ## Motivation
  This book presents real-time rendering knowledge by a thorough and systematic method. It is not only a guide book for shader development but a useful reference book for practitioners in graphic related field. As a reader of the book, you can read chapters which you are interested in.
 
+ This book takes MME instead of DX and OpenGL as shader development platform to .
  本书借助使用MME进行着色器开发，抛弃DX和OpenGL等api作为底层，全书以MME作为开发框架，穿插3D图形学的相关原理，以一种全新的方式引导读者快速掌握shader开发所必须掌握的理论，最实用的技巧
 
  同时，本书在介绍这些特性的过程中，尽可能简单的介绍这些特性产生的历史和技术需求，这为理解这些特性，合理的运用渲染提供很大的帮助
@@ -15,7 +16,7 @@
 ## About readers
   1. We assume that readers of the book have experience of using [MikuMikuDance](http://www.geocities.jp/higuchuu4/index_e.htm) and [MikuMikuEffect](https://bowlroll.net/file/35012)
   2. Math knowledge, such as geometry and linear algebra, is required, but do not worry too much. I will help you review related knowledge before I use, because the thoughts of these technologies and spatial imagination are more important.
-  3. 本书假定用户具有一定的编程开发基础，有一定的图形图像经验更优，渴望在短时间内了解实时渲染原理的人非常适合阅读本书
+  3. We assume that readers have a programming development foundation. It is better that you have some graphics and image knowledge.
 
 ## Reading
   `You can read this book by following methods:`
